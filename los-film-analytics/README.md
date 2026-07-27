@@ -21,7 +21,7 @@ LosFilm operates a localized movie rental network distributing films across vari
 ## 📊 Database ER Diagram
 The following diagram illustrates the relational layout of the LosFilm database system, mapping members, locations, and transactions to the core movie inventory.
 
-![LosFilm ER Diagram](adventureworks_erd.jpg)
+![LosFilm ER Diagram](los_film_erd.jpg)
 
 ## 📂 Project Navigation
 To maintain a clean repository architecture, the source code and documentation have been separated:

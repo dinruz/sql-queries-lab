@@ -1,8 +1,8 @@
-# SQL Exercises Dump Repo
+# # SQL Queries Lab
 
 ![T-SQL](https://img.shields.io/badge/T--SQL-007ACC?style=flat&logo=microsoft&logoColor=white)
 
-Personal collection of SQL queries and scripts. This repository serves as a scratchpad for data exploration and analysis.
+A personal collection of SQL queries, relational database models, and data analysis projects. This repository serves as a hands-on environment for exploring complex SQL concepts and business logic.
 
 ## Core Focus
 
@@ -13,19 +13,17 @@ Personal collection of SQL queries and scripts. This repository serves as a scra
 
 ## Technical Details
 
-### **Environment**:
+### **Environment**
  
-  Queries are developed in **SQL Server Management Studio** (SSMS) using **T-SQL**.
+Queries are developed in **SQL Server Management Studio** (SSMS) using **T-SQL**.
 
- ### **Organization**: 
+ ### **Organization**
 
 Each project folder contains:
 
  * own `scripts/` directory
  * database diagram (ERD) 
- * documentation for context (`data dictionary` and `README.md`).
-
-## Structure
+ * documentation - `data dictionary` and `README.md`
 
 ## Structure
 
