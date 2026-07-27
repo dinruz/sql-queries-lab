@@ -1,4 +1,4 @@
-# # SQL Queries Lab
+# SQL Queries Lab
 
 ![T-SQL](https://img.shields.io/badge/T--SQL-007ACC?style=flat&logo=microsoft&logoColor=white)
 
